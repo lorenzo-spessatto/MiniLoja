@@ -10,7 +10,7 @@ public class App {
         String listaCompras = "";
         double totalConta = 0.0;
         
-        System.out.println("--- BEM-VINDO À TECH STORE ---");
+        System.out.print("--- BEM-VINDO À TECH STORE ---");
 
         // 2. LOOP DE VENDAS
         while (true) {
